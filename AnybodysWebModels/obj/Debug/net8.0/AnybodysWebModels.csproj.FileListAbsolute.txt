@@ -1,0 +1,11 @@
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebModels\bin\Debug\net8.0\AnybodysWebModels.deps.json
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebModels\bin\Debug\net8.0\AnybodysWebModels.dll
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebModels\bin\Debug\net8.0\AnybodysWebModels.pdb
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebModels\obj\Debug\net8.0\AnybodysWebModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebModels\obj\Debug\net8.0\AnybodysWebModels.AssemblyInfoInputs.cache
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebModels\obj\Debug\net8.0\AnybodysWebModels.AssemblyInfo.cs
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebModels\obj\Debug\net8.0\AnybodysWebModels.csproj.CoreCompileInputs.cache
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebModels\obj\Debug\net8.0\AnybodysWebModels.dll
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebModels\obj\Debug\net8.0\refint\AnybodysWebModels.dll
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebModels\obj\Debug\net8.0\AnybodysWebModels.pdb
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebModels\obj\Debug\net8.0\ref\AnybodysWebModels.dll

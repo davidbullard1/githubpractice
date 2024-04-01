@@ -1,0 +1,17 @@
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysDbWebLibrary\bin\Debug\net8.0\AnybodysDbWebLibrary.deps.json
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysDbWebLibrary\bin\Debug\net8.0\AnybodysDbWebLibrary.runtimeconfig.json
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysDbWebLibrary\bin\Debug\net8.0\AnybodysDbWebLibrary.dll
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysDbWebLibrary\bin\Debug\net8.0\AnybodysDbWebLibrary.pdb
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysDbWebLibrary\bin\Debug\net8.0\AnybodysWebModels.dll
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysDbWebLibrary\bin\Debug\net8.0\AnybodysWebModels.pdb
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysDbWebLibrary\obj\Debug\net8.0\AnybodysDbWebLibrary.csproj.AssemblyReference.cache
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysDbWebLibrary\obj\Debug\net8.0\AnybodysDbWebLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysDbWebLibrary\obj\Debug\net8.0\AnybodysDbWebLibrary.AssemblyInfoInputs.cache
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysDbWebLibrary\obj\Debug\net8.0\AnybodysDbWebLibrary.AssemblyInfo.cs
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysDbWebLibrary\obj\Debug\net8.0\AnybodysDbWebLibrary.csproj.CoreCompileInputs.cache
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysDbWebLibrary\obj\Debug\net8.0\AnybodysDbWebLibrary.csproj.CopyComplete
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysDbWebLibrary\obj\Debug\net8.0\AnybodysDbWebLibrary.dll
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysDbWebLibrary\obj\Debug\net8.0\refint\AnybodysDbWebLibrary.dll
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysDbWebLibrary\obj\Debug\net8.0\AnybodysDbWebLibrary.pdb
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysDbWebLibrary\obj\Debug\net8.0\AnybodysDbWebLibrary.genruntimeconfig.cache
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysDbWebLibrary\obj\Debug\net8.0\ref\AnybodysDbWebLibrary.dll

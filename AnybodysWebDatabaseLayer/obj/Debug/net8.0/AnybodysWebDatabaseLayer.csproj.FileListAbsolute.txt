@@ -1,0 +1,17 @@
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDatabaseLayer\bin\Debug\net8.0\AnybodysWebDatabaseLayer.deps.json
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDatabaseLayer\bin\Debug\net8.0\AnybodysWebDatabaseLayer.dll
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDatabaseLayer\bin\Debug\net8.0\AnybodysWebDatabaseLayer.pdb
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDatabaseLayer\bin\Debug\net8.0\AnybodysWebDBLibrary.dll
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDatabaseLayer\bin\Debug\net8.0\AnybodysWebModels.dll
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDatabaseLayer\bin\Debug\net8.0\AnybodysWebDBLibrary.pdb
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDatabaseLayer\bin\Debug\net8.0\AnybodysWebModels.pdb
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDatabaseLayer\obj\Debug\net8.0\AnybodysWebDatabaseLayer.csproj.AssemblyReference.cache
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDatabaseLayer\obj\Debug\net8.0\AnybodysWebDatabaseLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDatabaseLayer\obj\Debug\net8.0\AnybodysWebDatabaseLayer.AssemblyInfoInputs.cache
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDatabaseLayer\obj\Debug\net8.0\AnybodysWebDatabaseLayer.AssemblyInfo.cs
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDatabaseLayer\obj\Debug\net8.0\AnybodysWebDatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDatabaseLayer\obj\Debug\net8.0\AnybodysWebDatabaseLayer.dll
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDatabaseLayer\obj\Debug\net8.0\refint\AnybodysWebDatabaseLayer.dll
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDatabaseLayer\obj\Debug\net8.0\AnybodysWebDatabaseLayer.pdb
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDatabaseLayer\obj\Debug\net8.0\ref\AnybodysWebDatabaseLayer.dll
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDatabaseLayer\obj\Debug\net8.0\Anybodys.BB2AFE45.Up2Date

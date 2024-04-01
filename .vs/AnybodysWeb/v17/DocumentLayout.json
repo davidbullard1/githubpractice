@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B2DFB-CAFE-46B8-BE9D-43A9A29B64C1}|AnybodysWeb\\AnybodysWeb.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodysweb\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F25B2DFB-CAFE-46B8-BE9D-43A9A29B64C1}|AnybodysWeb\\AnybodysWeb.csproj|solutionrelative:anybodysweb\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B2DFB-CAFE-46B8-BE9D-43A9A29B64C1}|AnybodysWeb\\AnybodysWeb.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodysweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F25B2DFB-CAFE-46B8-BE9D-43A9A29B64C1}|AnybodysWeb\\AnybodysWeb.csproj|solutionrelative:anybodysweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B2DFB-CAFE-46B8-BE9D-43A9A29B64C1}|AnybodysWeb\\AnybodysWeb.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodysweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F25B2DFB-CAFE-46B8-BE9D-43A9A29B64C1}|AnybodysWeb\\AnybodysWeb.csproj|solutionrelative:anybodysweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566F1077-0517-4AE7-A321-193A10574BB5}|AnybodysWebServiceLayer\\AnybodysWebServiceLayer.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodyswebservicelayer\\itemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566F1077-0517-4AE7-A321-193A10574BB5}|AnybodysWebServiceLayer\\AnybodysWebServiceLayer.csproj|solutionrelative:anybodyswebservicelayer\\itemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566F1077-0517-4AE7-A321-193A10574BB5}|AnybodysWebServiceLayer\\AnybodysWebServiceLayer.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodyswebservicelayer\\icategoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566F1077-0517-4AE7-A321-193A10574BB5}|AnybodysWebServiceLayer\\AnybodysWebServiceLayer.csproj|solutionrelative:anybodyswebservicelayer\\icategoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566F1077-0517-4AE7-A321-193A10574BB5}|AnybodysWebServiceLayer\\AnybodysWebServiceLayer.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodyswebservicelayer\\categoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566F1077-0517-4AE7-A321-193A10574BB5}|AnybodysWebServiceLayer\\AnybodysWebServiceLayer.csproj|solutionrelative:anybodyswebservicelayer\\categoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566F1077-0517-4AE7-A321-193A10574BB5}|AnybodysWebServiceLayer\\AnybodysWebServiceLayer.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodyswebservicelayer\\anybodyswebservicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{566F1077-0517-4AE7-A321-193A10574BB5}|AnybodysWebServiceLayer\\AnybodysWebServiceLayer.csproj|solutionrelative:anybodyswebservicelayer\\anybodyswebservicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B9B148-130B-4815-95D5-158AA181FF5B}|AnybodysWebModels\\AnybodysWebModels.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodyswebmodels\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B9B148-130B-4815-95D5-158AA181FF5B}|AnybodysWebModels\\AnybodysWebModels.csproj|solutionrelative:anybodyswebmodels\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B9B148-130B-4815-95D5-158AA181FF5B}|AnybodysWebModels\\AnybodysWebModels.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodyswebmodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B9B148-130B-4815-95D5-158AA181FF5B}|AnybodysWebModels\\AnybodysWebModels.csproj|solutionrelative:anybodyswebmodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F6CCE3-297F-4BFA-8DCD-6BDB3F97BEE0}|AnybodysWebDBLibrary\\AnybodysWebDBLibrary.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodyswebdblibrary\\anybodysdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F6CCE3-297F-4BFA-8DCD-6BDB3F97BEE0}|AnybodysWebDBLibrary\\AnybodysWebDBLibrary.csproj|solutionrelative:anybodyswebdblibrary\\anybodysdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8BE154-8618-45E3-8CA3-1F04B15602F3}|AnybodysWebDatabaseLayer_Tests\\AnybodysWebDatabaseLayer_Tests.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodyswebdatabaselayer_tests\\testitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8BE154-8618-45E3-8CA3-1F04B15602F3}|AnybodysWebDatabaseLayer_Tests\\AnybodysWebDatabaseLayer_Tests.csproj|solutionrelative:anybodyswebdatabaselayer_tests\\testitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8BE154-8618-45E3-8CA3-1F04B15602F3}|AnybodysWebDatabaseLayer_Tests\\AnybodysWebDatabaseLayer_Tests.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodyswebdatabaselayer_tests\\testcategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8BE154-8618-45E3-8CA3-1F04B15602F3}|AnybodysWebDatabaseLayer_Tests\\AnybodysWebDatabaseLayer_Tests.csproj|solutionrelative:anybodyswebdatabaselayer_tests\\testcategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8BE154-8618-45E3-8CA3-1F04B15602F3}|AnybodysWebDatabaseLayer_Tests\\AnybodysWebDatabaseLayer_Tests.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodyswebdatabaselayer_tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8BE154-8618-45E3-8CA3-1F04B15602F3}|AnybodysWebDatabaseLayer_Tests\\AnybodysWebDatabaseLayer_Tests.csproj|solutionrelative:anybodyswebdatabaselayer_tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237ADFE0-3E85-47D3-8EA2-57F7892BA6BD}|AnybodysWebDatabaseLayer\\AnybodysWebDatabaseLayer.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodyswebdatabaselayer\\itemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237ADFE0-3E85-47D3-8EA2-57F7892BA6BD}|AnybodysWebDatabaseLayer\\AnybodysWebDatabaseLayer.csproj|solutionrelative:anybodyswebdatabaselayer\\itemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237ADFE0-3E85-47D3-8EA2-57F7892BA6BD}|AnybodysWebDatabaseLayer\\AnybodysWebDatabaseLayer.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodyswebdatabaselayer\\iitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237ADFE0-3E85-47D3-8EA2-57F7892BA6BD}|AnybodysWebDatabaseLayer\\AnybodysWebDatabaseLayer.csproj|solutionrelative:anybodyswebdatabaselayer\\iitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237ADFE0-3E85-47D3-8EA2-57F7892BA6BD}|AnybodysWebDatabaseLayer\\AnybodysWebDatabaseLayer.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodyswebdatabaselayer\\icategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237ADFE0-3E85-47D3-8EA2-57F7892BA6BD}|AnybodysWebDatabaseLayer\\AnybodysWebDatabaseLayer.csproj|solutionrelative:anybodyswebdatabaselayer\\icategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237ADFE0-3E85-47D3-8EA2-57F7892BA6BD}|AnybodysWebDatabaseLayer\\AnybodysWebDatabaseLayer.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodyswebdatabaselayer\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237ADFE0-3E85-47D3-8EA2-57F7892BA6BD}|AnybodysWebDatabaseLayer\\AnybodysWebDatabaseLayer.csproj|solutionrelative:anybodyswebdatabaselayer\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237ADFE0-3E85-47D3-8EA2-57F7892BA6BD}|AnybodysWebDatabaseLayer\\AnybodysWebDatabaseLayer.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodyswebdatabaselayer\\categoriesfakedatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237ADFE0-3E85-47D3-8EA2-57F7892BA6BD}|AnybodysWebDatabaseLayer\\AnybodysWebDatabaseLayer.csproj|solutionrelative:anybodyswebdatabaselayer\\categoriesfakedatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B2DFB-CAFE-46B8-BE9D-43A9A29B64C1}|AnybodysWeb\\AnybodysWeb.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodysweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B2DFB-CAFE-46B8-BE9D-43A9A29B64C1}|AnybodysWeb\\AnybodysWeb.csproj|solutionrelative:anybodysweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B2DFB-CAFE-46B8-BE9D-43A9A29B64C1}|AnybodysWeb\\AnybodysWeb.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodysweb\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B2DFB-CAFE-46B8-BE9D-43A9A29B64C1}|AnybodysWeb\\AnybodysWeb.csproj|solutionrelative:anybodysweb\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B2DFB-CAFE-46B8-BE9D-43A9A29B64C1}|AnybodysWeb\\AnybodysWeb.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodysweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B2DFB-CAFE-46B8-BE9D-43A9A29B64C1}|AnybodysWeb\\AnybodysWeb.csproj|solutionrelative:anybodysweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B2DFB-CAFE-46B8-BE9D-43A9A29B64C1}|AnybodysWeb\\AnybodysWeb.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodysweb\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B2DFB-CAFE-46B8-BE9D-43A9A29B64C1}|AnybodysWeb\\AnybodysWeb.csproj|solutionrelative:anybodysweb\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566F1077-0517-4AE7-A321-193A10574BB5}|AnybodysWebServiceLayer\\AnybodysWebServiceLayer.csproj|c:\\users\\stret\\source\\webpageproj\\anybodysweb\\anybodyswebservicelayer\\iitemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566F1077-0517-4AE7-A321-193A10574BB5}|AnybodysWebServiceLayer\\AnybodysWebServiceLayer.csproj|solutionrelative:anybodyswebservicelayer\\iitemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWeb\\Views\\Items\\Create.cshtml",
+              "RelativeDocumentMoniker": "AnybodysWeb\\Views\\Items\\Create.cshtml",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWeb\\Views\\Items\\Create.cshtml",
+              "RelativeToolTip": "AnybodysWeb\\Views\\Items\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T14:07:41.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AnybodysWeb\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AnybodysWeb\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T14:07:38.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AnybodysWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AnybodysWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T14:07:36.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnybodysWebServiceLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebServiceLayer\\AnybodysWebServiceLayer.csproj",
+              "RelativeDocumentMoniker": "AnybodysWebServiceLayer\\AnybodysWebServiceLayer.csproj",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebServiceLayer\\AnybodysWebServiceLayer.csproj",
+              "RelativeToolTip": "AnybodysWebServiceLayer\\AnybodysWebServiceLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T05:22:05.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriesService.cs",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebServiceLayer\\CategoriesService.cs",
+              "RelativeDocumentMoniker": "AnybodysWebServiceLayer\\CategoriesService.cs",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebServiceLayer\\CategoriesService.cs",
+              "RelativeToolTip": "AnybodysWebServiceLayer\\CategoriesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:21:29.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoriesService.cs",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebServiceLayer\\ICategoriesService.cs",
+              "RelativeDocumentMoniker": "AnybodysWebServiceLayer\\ICategoriesService.cs",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebServiceLayer\\ICategoriesService.cs",
+              "RelativeToolTip": "AnybodysWebServiceLayer\\ICategoriesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:21:28.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemsService.cs",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebServiceLayer\\ItemsService.cs",
+              "RelativeDocumentMoniker": "AnybodysWebServiceLayer\\ItemsService.cs",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebServiceLayer\\ItemsService.cs",
+              "RelativeToolTip": "AnybodysWebServiceLayer\\ItemsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:13:01.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebModels\\Item.cs",
+              "RelativeDocumentMoniker": "AnybodysWebModels\\Item.cs",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebModels\\Item.cs",
+              "RelativeToolTip": "AnybodysWebModels\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:21:11.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestItemsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebDatabaseLayer_Tests\\TestItemsRepository.cs",
+              "RelativeDocumentMoniker": "AnybodysWebDatabaseLayer_Tests\\TestItemsRepository.cs",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebDatabaseLayer_Tests\\TestItemsRepository.cs",
+              "RelativeToolTip": "AnybodysWebDatabaseLayer_Tests\\TestItemsRepository.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAkwLQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:27:17.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestCategoriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebDatabaseLayer_Tests\\TestCategoriesRepository.cs",
+              "RelativeDocumentMoniker": "AnybodysWebDatabaseLayer_Tests\\TestCategoriesRepository.cs",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebDatabaseLayer_Tests\\TestCategoriesRepository.cs",
+              "RelativeToolTip": "AnybodysWebDatabaseLayer_Tests\\TestCategoriesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:21:05.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnybodysDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebDBLibrary\\AnybodysDbContext.cs",
+              "RelativeDocumentMoniker": "AnybodysWebDBLibrary\\AnybodysDbContext.cs",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebDBLibrary\\AnybodysDbContext.cs",
+              "RelativeToolTip": "AnybodysWebDBLibrary\\AnybodysDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:21:23.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebModels\\Category.cs",
+              "RelativeDocumentMoniker": "AnybodysWebModels\\Category.cs",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebModels\\Category.cs",
+              "RelativeToolTip": "AnybodysWebModels\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:21:13.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebDatabaseLayer_Tests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "AnybodysWebDatabaseLayer_Tests\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebDatabaseLayer_Tests\\GlobalUsings.cs",
+              "RelativeToolTip": "AnybodysWebDatabaseLayer_Tests\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:21:55.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ItemsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebDatabaseLayer\\ItemsRepository.cs",
+              "RelativeDocumentMoniker": "AnybodysWebDatabaseLayer\\ItemsRepository.cs",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebDatabaseLayer\\ItemsRepository.cs",
+              "RelativeToolTip": "AnybodysWebDatabaseLayer\\ItemsRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:14:41.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IItemsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebDatabaseLayer\\IItemsRepository.cs",
+              "RelativeDocumentMoniker": "AnybodysWebDatabaseLayer\\IItemsRepository.cs",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebDatabaseLayer\\IItemsRepository.cs",
+              "RelativeToolTip": "AnybodysWebDatabaseLayer\\IItemsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:21:52.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebDatabaseLayer\\ICategoriesRepository.cs",
+              "RelativeDocumentMoniker": "AnybodysWebDatabaseLayer\\ICategoriesRepository.cs",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebDatabaseLayer\\ICategoriesRepository.cs",
+              "RelativeToolTip": "AnybodysWebDatabaseLayer\\ICategoriesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:21:51.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoriesFakeDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebDatabaseLayer\\CategoriesFakeDataRepository.cs",
+              "RelativeDocumentMoniker": "AnybodysWebDatabaseLayer\\CategoriesFakeDataRepository.cs",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebDatabaseLayer\\CategoriesFakeDataRepository.cs",
+              "RelativeToolTip": "AnybodysWebDatabaseLayer\\CategoriesFakeDataRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:21:45.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWeb\\Program.cs",
+              "RelativeDocumentMoniker": "AnybodysWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWeb\\Program.cs",
+              "RelativeToolTip": "AnybodysWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:21:43.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AnybodysWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AnybodysWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:21:39.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebDatabaseLayer\\CategoriesRepository.cs",
+              "RelativeDocumentMoniker": "AnybodysWebDatabaseLayer\\CategoriesRepository.cs",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebDatabaseLayer\\CategoriesRepository.cs",
+              "RelativeToolTip": "AnybodysWebDatabaseLayer\\CategoriesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:26:36.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWeb\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "AnybodysWeb\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWeb\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "AnybodysWeb\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:18:57.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWeb\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "AnybodysWeb\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWeb\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "AnybodysWeb\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:28:50.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IItemsService.cs",
+              "DocumentMoniker": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebServiceLayer\\IItemsService.cs",
+              "RelativeDocumentMoniker": "AnybodysWebServiceLayer\\IItemsService.cs",
+              "ToolTip": "C:\\Users\\stret\\source\\webpageproj\\AnybodysWeb\\AnybodysWebServiceLayer\\IItemsService.cs",
+              "RelativeToolTip": "AnybodysWebServiceLayer\\IItemsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:09:02.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

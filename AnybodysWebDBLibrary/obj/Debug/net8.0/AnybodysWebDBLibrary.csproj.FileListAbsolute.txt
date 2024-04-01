@@ -1,0 +1,17 @@
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDBLibrary\bin\Debug\net8.0\AnybodysWebDBLibrary.deps.json
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDBLibrary\bin\Debug\net8.0\AnybodysWebDBLibrary.runtimeconfig.json
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDBLibrary\bin\Debug\net8.0\AnybodysWebDBLibrary.dll
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDBLibrary\bin\Debug\net8.0\AnybodysWebDBLibrary.pdb
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDBLibrary\bin\Debug\net8.0\AnybodysWebModels.dll
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDBLibrary\bin\Debug\net8.0\AnybodysWebModels.pdb
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDBLibrary\obj\Debug\net8.0\AnybodysWebDBLibrary.csproj.AssemblyReference.cache
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDBLibrary\obj\Debug\net8.0\AnybodysWebDBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDBLibrary\obj\Debug\net8.0\AnybodysWebDBLibrary.AssemblyInfoInputs.cache
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDBLibrary\obj\Debug\net8.0\AnybodysWebDBLibrary.AssemblyInfo.cs
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDBLibrary\obj\Debug\net8.0\AnybodysWebDBLibrary.csproj.CoreCompileInputs.cache
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDBLibrary\obj\Debug\net8.0\AnybodysWebDBLibrary.dll
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDBLibrary\obj\Debug\net8.0\refint\AnybodysWebDBLibrary.dll
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDBLibrary\obj\Debug\net8.0\AnybodysWebDBLibrary.pdb
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDBLibrary\obj\Debug\net8.0\AnybodysWebDBLibrary.genruntimeconfig.cache
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDBLibrary\obj\Debug\net8.0\ref\AnybodysWebDBLibrary.dll
+C:\Users\stret\source\webpageproj\AnybodysWeb\AnybodysWebDBLibrary\obj\Debug\net8.0\Anybodys.22FACF7C.Up2Date
